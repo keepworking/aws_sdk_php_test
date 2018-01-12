@@ -37,7 +37,7 @@ if($_FILES["file"] != null){
 ?>
 
 
-<form class="" action="upload.php" enctype="multipart/form-data" method="post">
+<form class="" action="upload_test.php" enctype="multipart/form-data" method="post">
   <input type="file" name="file" value="">
   <input type="submit" name="" value="">
 </form>
